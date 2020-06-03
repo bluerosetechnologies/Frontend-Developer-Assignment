@@ -77,5 +77,6 @@ For all coding challenges, you will need a web host to showcase your working dem
 - Write clean code with comments
 - Create Readme.md file with deployment/ execution steps to check unit test scripts.
 - Use [https://travis-ci.org/](Travis CI) to check deployment or execution steps.
+- Badge from Travis CI should be attached in Readme.md file
 
 Share the Demo working link and the GitHub repository link with us.

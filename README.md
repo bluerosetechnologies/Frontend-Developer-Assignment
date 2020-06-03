@@ -61,15 +61,15 @@ Time entries should be saved in the database.
 For all coding challenges, you will need a web host to showcase your working demo. You can use free web hosting for your demo. Heroku, Amazon AWS, Digital Ocean, Google Cloud, – all offer a free trial plan. You can use any of these cloud providers or simply any free web hosting.
 
 **Guidelines**
-Use of Google is allowed & encouraged 😉
-Your code should be uploaded on Github
-Use Webpack
-Use of ES6 or greater is recommended
-Use of SCSS/LESS will have extra points.
-unit-tests is required
-Use of NextJS is not allowed.
-Use of css libraries are not allowed.
-WordPress may be used to store/fetch data using WP Rest API but is totally optional.
+- Use of Google is allowed & encouraged 😉
+- Your code should be uploaded on Github
+- Use Webpack
+- Use of ES6 or greater is recommended
+- Use of SCSS/LESS will have extra points.
+- unit-tests is required
+- Use of NextJS is not allowed.
+- Use of css libraries are not allowed.
+- WordPress may be used to store/fetch data using WP Rest API but is totally optional.
 
 **Coding Guidelines**
 - Before you start with the assignment, please note down our common minimum requirements.

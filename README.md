@@ -69,6 +69,7 @@ For all coding challenges, you will need a web host to showcase your working dem
 - unit-tests is required
 - Use of NextJS is not allowed.
 - Use of css libraries are not allowed.
+- Use MongoDB Atlas [https://www.mongodb.com/cloud/atlas] (MongoDB Atlas) to host MongoDB database
 
 **Coding Guidelines**
 - Before you start with the assignment, please note down our common minimum requirements.

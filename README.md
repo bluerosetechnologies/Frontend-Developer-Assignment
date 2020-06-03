@@ -4,6 +4,7 @@ The Challenge
 You may choose one of the challenges unless you have been asked a specific task number.
 
 **Task #1**
+
 Create a simple blog theme using Angular or React (or javascript framework of your choise) and WP REST API.
 
 **Use any template from [https://html5up.net/](https://html5up.net/)** unless specified.
@@ -18,6 +19,7 @@ Create a simple blog theme using Angular or React (or javascript framework of yo
 
 
 **Task # 2:**
+
 Create an e-commerce site using  Angular or React (or javascript framework of your choise) and database of your choice.
 
 **The site should have the following pages**

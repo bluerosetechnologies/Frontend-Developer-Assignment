@@ -1,6 +1,7 @@
 ## Frontend Developer Assignment
 
-The Challenge
+The Challenge:
+
 You may choose one of the challenges unless you have been asked a specific task number.
 
 **Task #1**

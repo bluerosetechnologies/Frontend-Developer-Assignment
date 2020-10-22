@@ -1,3 +1,4 @@
+
 ## Frontend Developer Assignment
 
 The Challenge:
@@ -54,6 +55,19 @@ Pages should be rendered on the server ( may use express-js )
 
 Time entries should be saved in the database.
 
+
+**Task # 4**
+
+Convert PSD to HTML (Responsive) using twitter bootstrap.
+
+1. HTML Should be responsive and should support all major browsers.
+2. Make use of opensource/ free to use images for the challenge.
+3. Google map should work with pins and popups.
+4. Make sure that proper form validations are in place.
+5. HTML should be SEO compatible.
+6. Follow W3C standards (https://www.w3.org/standards/) . You can validate your HTML here.
+
+
 ---
 
 👉🏻 For all the above tasks, you are free to use any design. Keeping design minimal and clean is advised.
@@ -63,13 +77,13 @@ For all coding challenges, you will need a web host to showcase your working dem
 
 **Guidelines**
 - Use of Google is allowed & encouraged 😉
-- Your code should be uploaded on Github
+- Your code should be uploaded on GitHub
 - Use Webpack
 - Use of ES6 or greater is recommended
 - Use of SCSS/LESS will have extra points.
 - unit-tests is required
 - Use of NextJS is not allowed.
-- Use of css libraries are not allowed.
+- Use of CSS libraries are not allowed.
 - Use MongoDB Atlas [https://www.mongodb.com/cloud/atlas] (MongoDB Atlas) to host MongoDB database
 
 **Coding Guidelines**
